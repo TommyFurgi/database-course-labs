@@ -1,0 +1,7 @@
+/bin/
+/obj/
+*.db
+*.sqlite
+MyProductDatabase
+MyProductDatabase-shm
+MyProductDatabase-wal
